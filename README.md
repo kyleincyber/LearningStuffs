@@ -9,10 +9,9 @@ The Study Topic Selector, developed by KyleInCyber (with help from a AI-powered 
 - JavaScript
 - Data sourced from a publicly available Google Spreadsheet
 
-## Setup and Usage
-1. Clone this repository.
-2. Open the application in your browser by visiting [https://learning-topics.kyleincyber.com](https://learning-topics.kyleincyber.com).
-3. Begin exploring and studying by selecting a primary topic and then a secondary topic.
+## Usage
+1. Open the application in your browser by visiting [https://learning-topics.kyleincyber.com](https://learning-topics.kyleincyber.com).
+2. Begin exploring and studying by selecting a primary topic and then a secondary topic.
 
 ## Contributing
 Contributions, issues, feature and topic/material requests are welcome.
