@@ -1,4 +1,3 @@
-Here is my ReadMe.md created byt GPT 4. The app is developed for me to choose what I want to study. It kinda acts like a database of learning topics in my "todo" as well but that is secondary. Please fix any issues/errors and and change as needed. 
 # Study Topic Selector
 
 ## Introduction
