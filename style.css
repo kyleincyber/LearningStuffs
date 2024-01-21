@@ -7,6 +7,7 @@ body {
     align-items: center;
     height: 100vh;
     background-color: #f4f4f4;
+    font-size: calc(10px + 1.5vmin);
 }
 
 #main-container {
@@ -21,4 +22,35 @@ button {
     margin: 10px;
     padding: 10px 20px;
     cursor: pointer;
+}
+
+.back-button {
+    background-color: darkgray;
+    color: white;
+    font-size: calc(10px + 1.5vmin);
+    /* Use the same font-size scaling */
+    width: calc(30px + 4vmin);
+    /* Adjust the width with a similar scaling factor */
+    height: calc(30px + 4vmin);
+    /* Adjust the height with a similar scaling factor */
+
+}
+
+/* Style for the main title */
+#main-title {
+    font-size: 2em;
+}
+
+/* Style for the content container */
+#content-container {
+    margin-top: 20px;
+}
+
+/* Style for the favicon */
+.favicon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 24px; /* Adjust size as needed */
+    height: 24px;
+    margin-right: 10px;
 }
